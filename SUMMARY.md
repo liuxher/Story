@@ -6,7 +6,7 @@
    * [Syaoran_：我与卡片的故事](chapter01/note02.md)
    * [hetao：对笨方法的理解](chapter01/note03.md)
    * [黄文龙：对笨方法的理解](chapter01/note04.md)
-   * [故事](chapter01/note01.md)
+   * [Syaoran：像堂吉诃德一般做个愚蠢的骑士吧！](chapter01/note05.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
