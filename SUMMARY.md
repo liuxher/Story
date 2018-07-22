@@ -9,7 +9,7 @@
    * [Syaoran：像堂吉诃德一般做个愚蠢的骑士吧！](chapter01/note05.md)
    * [老马识途：走上正确练习写作的道路](chapter01/note06.md)
    * [彭浩s：学习写作，你需要“笨方法”](chapter01/note07.md)
-   * [故事](chapter01/note01.md)
+   * [ktulu7：我是怎么理解笨方法的](chapter01/note08.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
