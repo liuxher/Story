@@ -11,7 +11,7 @@
    * [彭浩s：学习写作，你需要“笨方法”](chapter01/note07.md)
    * [ktulu7：我是怎么理解笨方法的](chapter01/note08.md)
    * [OWL：写作之于我一直以来是一件很难的事情](chapter01/note09.md)
-   * [故事](chapter01/note01.md)
+   * [徐志恒Bruce：你为何一直在下决心？](chapter01/note10.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
