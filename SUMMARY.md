@@ -13,7 +13,7 @@
    * [OWL：写作之于我一直以来是一件很难的事情](chapter01/note09.md)
    * [徐志恒Bruce：你为何一直在下决心？](chapter01/note10.md)
    * [夏小西：究其根本，你我都还配不上“努力”两个字](chapter01/note11.md)
-   * [故事](chapter01/note01.md)
+   * [藤井樹：时间会证明一切](chapter01/note12.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
    * [故事](chapter01/note01.md)
